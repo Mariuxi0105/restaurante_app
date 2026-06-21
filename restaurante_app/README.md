@@ -1,4 +1,4 @@
-# 🍔 Sistema de Gestión de Restaurante (POO en Python)
+# Sistema de Gestión de Restaurante (POO en Python)
 
 ## 👤 Información del Estudiante
 * **Nombre Completo:** Mariuxi Jessenia Tejada Mayorga
@@ -7,12 +7,12 @@
 
 ---
 
-## 📝 Descripción del Sistema
+## Descripción del Sistema
 Este proyecto implementa un sistema básico para un restaurante utilizando el paradigma de **Programación Orientada a Objetos (POO)**. Permite administrar de manera automatizada el menú de productos (platillos/bebidas) y registrar el historial de consumo individual de cada cliente para calcular el total a pagar de forma dinámica.
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 El repositorio respeta estrictamente la organización modular solicitada por la rúbrica:
 
 * **`restaurante_app/`** (Carpeta raíz del software)
@@ -25,7 +25,7 @@ El repositorio respeta estrictamente la organización modular solicitada por la 
 
 ---
 
-## 💡 Reflexión: Importancia de la Modularización y Separación de Responsabilidades
+## Reflexión: Importancia de la Modularización y Separación de Responsabilidades
 Modularizar el software y separar responsabilidades es fundamental en el desarrollo moderno porque:
 1. **Facilita el mantenimiento:** Si se requiere modificar la lógica de los precios, solo se altera el módulo correspondiente sin afectar el flujo del cliente.
 2. **Promueve la legibilidad:** Divide un problema complejo en componentes pequeños, ordenados y comprensibles, evitando códigos masivos y desorganizados.
